@@ -32,22 +32,19 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Steps.cpp">
+    <ClCompile Include="Basics.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CountPairs.cpp">
+    <ClCompile Include="VoidPointers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Maze.cpp">
+    <ClCompile Include="MaxEqualSubArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Spiral.cpp">
+    <ClCompile Include="CombineCommonElements.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MainRecursion.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="NSnipers.cpp">
+    <ClCompile Include="MainFunctionPointers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

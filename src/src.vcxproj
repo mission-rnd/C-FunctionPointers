@@ -84,16 +84,15 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CountPairs.cpp" />
-    <ClCompile Include="MainRecursion.cpp" />
-    <ClCompile Include="Maze.cpp" />
-    <ClCompile Include="NSnipers.cpp" />
-    <ClCompile Include="Spiral.cpp" />
+    <ClCompile Include="Basics.cpp" />
+    <ClCompile Include="MainFunctionPointers.cpp" />
+    <ClCompile Include="VoidPointers.cpp" />
+    <ClCompile Include="MaxEqualSubArray.cpp" />
+    <ClCompile Include="CombineCommonElements.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Steps.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

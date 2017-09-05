@@ -21,19 +21,16 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CountPairsSpec.cpp">
+    <ClCompile Include="BasicsSpec.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="StepsSpec.cpp">
+    <ClCompile Include="VoidPointersSpec.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MazeSpec.cpp">
+    <ClCompile Include="MaxEqualSubArraySpec.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SpiralSpec.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="NSnipersSpec.cpp">
+    <ClCompile Include="CombineCommonElementsSpec.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
